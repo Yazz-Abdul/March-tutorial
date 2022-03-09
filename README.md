@@ -33,12 +33,14 @@ git pull
 - Conversational AI
 -  Computer Vision
 -  Accelerated Computing
+-  Open source software
 
 ##### LIST OF NLP USE CASES
 1. Speech task
 2. Machine Translation
 3. Conversational AI
 4. Summarization
+5. Bulleting
 
 ##### NBA TEAMS
 1. LA lakers
