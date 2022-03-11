@@ -48,6 +48,7 @@ git pull
 2. NETS
  - Kevin Durant
  - Mansa Amwoga
+ - Yaz   Abdul
 
 ##### Mentioning People
 @heytec created the Africa Data School Github Resource
