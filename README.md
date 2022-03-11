@@ -47,6 +47,7 @@ git pull
   - LeBron James
 2. NETS
  - Kevin Durant
+ - Mansa Amwoga
 
 ##### Mentioning People
 @heytec created the Africa Data School Github Resource
