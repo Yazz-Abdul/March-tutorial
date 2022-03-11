@@ -49,6 +49,7 @@ git pull
  - Kevin Durant
  - Mansa Amwoga
  - Yaz   Abdul
+ -People Watu
 
 ##### Mentioning People
 @heytec created the Africa Data School Github Resource
